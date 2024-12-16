@@ -22,11 +22,8 @@ A simple Django-based web application that provides **real-time weather updates*
   
 ---
 
-## ⚙️ Installation
 
-Follow these steps to set up and run the project on your local machine:
-
-### 1. **Clone the Repository**
+### ** To Clone the Repository**
 Open your terminal or command prompt and run:
 ```bash
 git clone https://github.com/your-username/Weather_Forecast.git
